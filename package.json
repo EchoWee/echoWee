@@ -1,5 +1,5 @@
 {
-  "name": "echoWee",
+  "name": "echowee",
   "version": "1.0.2",
   "description": "Generic HTTP client",
   "main": "teaEcho/teaEcho.js",
